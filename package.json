@@ -1,0 +1,14 @@
+{
+  "name": "ow-tourney-app-backend",
+  "version": "1.0.0",
+  "description": "backend for the overwatch tournament viewer application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "graham perich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
